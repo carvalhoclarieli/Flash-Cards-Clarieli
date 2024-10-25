@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Categoria' ,
-    'Pergunta?' ,
-    'Resposta'
+    'Geografia',
+    'Qual o maior país do mundo em área?' ,
+    'Rússia'
 )
 
 criaCartao(
-    'Categoria' ,
-    'Pergunta?' ,
-    'Resposta'
+    'Geografia' ,
+    'O Brasil fica em qual continente?' ,
+    'América do sul'
 )
 
 criaCartao(
-    'Categoria' ,
-    'Pergunta?' ,
-    'Resposta'
+    'Geografia' ,
+    'Quais são os nomes dos cinco oceanos do mundo?' ,
+    'Atlântico, Pacífico, Índico, Ártico e Antártico'
 )
